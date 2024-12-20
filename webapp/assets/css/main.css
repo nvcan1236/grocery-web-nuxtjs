@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer base {
+  :root {
+    --border-color: #333;
+    --dark-green-color: #03602a;
+    --green-color: #008036;
+    --light-green-color: #64bc5e;
+    --yellow-color: #ffd51e;
+    --black-color: #2e2e2e;
+  }
+}
