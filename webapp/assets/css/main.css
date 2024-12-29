@@ -9,5 +9,7 @@
     --light-green-color: #64bc5e;
     --yellow-color: #ffd51e;
     --black-color: #2e2e2e;
+    --side-nav-width: 270px;
+    --header-height: 90px;
   }
 }
