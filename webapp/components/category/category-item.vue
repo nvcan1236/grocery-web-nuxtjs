@@ -19,7 +19,7 @@ const { data, open } = defineProps<{
     class="transition-all"
   >
     <li v-for="sub in data.childrens">
-      <NuxtLink :to="sub.url" class="p-2 block">{{ sub.name }}</NuxtLink>
+      <NuxtLink :to="`/${sub.url}`" class="p-2 block">{{ sub.name }}</NuxtLink>
     </li>
   </ul>
 </template>

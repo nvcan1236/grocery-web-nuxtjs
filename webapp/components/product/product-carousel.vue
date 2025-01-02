@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-background p-2 border-main-green relative flex gap-2">
+  <div class=" p-2 border-main-green relative flex gap-2 items-stretch">
     <ProductCard />
     <ProductCard />
     <ProductCard />

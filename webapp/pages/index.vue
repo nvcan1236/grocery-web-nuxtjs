@@ -70,19 +70,19 @@
 
     <div class="mt-2">
       <Banner />
-      <CategorySection />
+      <CategorySection type="light" />
     </div>
     <div class="mt-2">
       <Banner />
-      <CategorySection />
+      <CategorySection type="dark" />
     </div>
     <div class="mt-2">
       <Banner />
-      <CategorySection />
+      <CategorySection type="light" />
     </div>
     <div class="mt-2">
       <Banner />
-      <CategorySection />
+      <CategorySection type="dark" />
     </div>
   </div>
 </template>
